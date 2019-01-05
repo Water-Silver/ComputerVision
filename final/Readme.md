@@ -7,10 +7,12 @@ Finding corners, applying image warping, and adjusting contrasts were done. (C++
 
 The Process is as followed.
 1. Apply K-means clustering and Mean filtering to blur out the contents on the paper.
-<h3>K-means</h3>
+K-means
+
 ![1 kmeans](https://user-images.githubusercontent.com/36324014/50730213-5ffc3000-118b-11e9-9166-7e400889c5ad.PNG)
 
-<h3>mean filtering</h3>
+mean filtering
+
 ![2 meanfiltered](https://user-images.githubusercontent.com/36324014/50730228-efa1de80-118b-11e9-9b8b-137c1abe720b.PNG)
 
 2. Then use cornerHarris function provided by OpenCV to find corners of the paper.
