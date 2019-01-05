@@ -15,7 +15,7 @@ The original image should be located in the project directory.
 
 <h2>Result Image</h2>
 
-input
+<h3>input</h3>
 
 ![inputs](https://user-images.githubusercontent.com/36324014/50730122-03981100-1189-11e9-8a95-96ed8694b190.JPG)
 
