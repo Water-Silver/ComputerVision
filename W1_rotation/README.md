@@ -1,9 +1,10 @@
 
-Image Rotation using nearest and bilinear interpolation
-========================================================
+<h1>"Image Rotation using nearest and bilinear interpolation"</h1>
 
-Usage Notes
-========================================================
+![rotationresult](https://user-images.githubusercontent.com/36324014/50729872-e5c8ad00-1184-11e9-8d03-2dcd9cf1a9b1.JPG)
+
+<h2>Usage Notes</h2>
+
 
 - The program is intened to rotate a given image and show it on screen.
 
@@ -31,8 +32,7 @@ the pixels in the newly made rotated image.
 
   Then calculate the intensity of f(x',y')= ¥ëf(x+1,y') + (1-¥ë)f(x,y')  
 
-Requirements
-=======================================================
+<h2>Requirements</h2>
 
 Opencv should be installed and system environment variable should be added.
 
@@ -41,4 +41,4 @@ Relevant libraries should be imported as well.
 The original image should be located in the project directory
 
 
-![rotationresult](https://user-images.githubusercontent.com/36324014/50729872-e5c8ad00-1184-11e9-8d03-2dcd9cf1a9b1.JPG)
+
