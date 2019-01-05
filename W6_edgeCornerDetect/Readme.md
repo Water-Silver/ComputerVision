@@ -1,8 +1,8 @@
-Edge and Corner Detection
+<h1>"Edge and Corner Detection"</h1>
 ====================
 
-Usage Notes
-==========================
+<h2>Usage Notes</h2>
+
 
 - The programs detect edges and corners using following methods repectively.
 
