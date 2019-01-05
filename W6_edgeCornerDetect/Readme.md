@@ -1,5 +1,5 @@
 <h1>"Edge and Corner Detection"</h1>
-====================
+
 
 <h2>Usage Notes</h2>
 
