@@ -19,14 +19,14 @@ The original image should be located in the project directory.
 
 ![inputs](https://user-images.githubusercontent.com/36324014/50730122-03981100-1189-11e9-8a95-96ed8694b190.JPG)
 
-nearest neighbor
+<h3>nearest neighbor</h3>
 
 ![nn](https://user-images.githubusercontent.com/36324014/50730123-0d217900-1189-11e9-93b4-037a71e0f657.JPG)
 
-cross check
+<h3>cross check</h3>
 
 ![crosscheck](https://user-images.githubusercontent.com/36324014/50730129-19a5d180-1189-11e9-80a4-91dbed4c57ad.JPG)
 
-cross check & ratio threshold
+<h3>cross check & ratio threshold</h3>
 
 ![crosscheck ratiothres](https://user-images.githubusercontent.com/36324014/50730135-2b877480-1189-11e9-8718-cf714aff8512.JPG)
