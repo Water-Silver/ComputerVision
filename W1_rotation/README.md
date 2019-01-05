@@ -1,13 +1,9 @@
 
-
-
 Image Rotation using nearest and bilinear interpolation
-
 ========================================================
 
 Usage Notes
-
-------------
+========================================================
 
 - The program is intened to rotate a given image and show it on screen.
 
@@ -27,7 +23,7 @@ the pixels in the newly made rotated image.
 
 - By "nearest" the floor() function will be used to fill the pixel with the closest pixel's intensity.
 
-- By "bilinear" the pixcel's intensity will by calculated by the surounding 4 points.
+- By "bilinear" the pixel's intensity will by calculated by the surounding 4 points.
 
   The way to do this is : calculate the intensity of points between the two upper points(f(x',y))
 
@@ -36,8 +32,7 @@ the pixels in the newly made rotated image.
   Then calculate the intensity of f(x',y')= ¥ëf(x+1,y') + (1-¥ë)f(x,y')  
 
 Requirements
-
--------------
+=======================================================
 
 Opencv should be installed and system environment variable should be added.
 
