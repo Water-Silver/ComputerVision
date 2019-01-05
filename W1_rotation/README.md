@@ -1,5 +1,5 @@
 
-![rotationresult](https://user-images.githubusercontent.com/36324014/50729872-e5c8ad00-1184-11e9-8d03-2dcd9cf1a9b1.JPG){ width=50% }
+
 
 Image Rotation using nearest and bilinear interpolation
 
@@ -44,3 +44,6 @@ Opencv should be installed and system environment variable should be added.
 Relevant libraries should be imported as well.
 
 The original image should be located in the project directory
+
+
+![rotationresult](https://user-images.githubusercontent.com/36324014/50729872-e5c8ad00-1184-11e9-8d03-2dcd9cf1a9b1.JPG)
