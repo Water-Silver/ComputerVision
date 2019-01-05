@@ -20,7 +20,7 @@
 
    cornerSubPix() optionally.
    
-   ![harriscorner](https://user-images.githubusercontent.com/36324014/50730053-90da6600-1187-11e9-8df8-87e166cc4e94.JPG)
+   ![harriscorner](https://user-images.githubusercontent.com/36324014/50730053-90da6600-1187-11e9-8df8-87e166cc4e94.JPG =100x20)
 
 
 Requirements
