@@ -23,9 +23,8 @@
    ![harriscorner](https://user-images.githubusercontent.com/36324014/50730053-90da6600-1187-11e9-8df8-87e166cc4e94.JPG)
 
 
-Requirements
+<h2>Requirements</h2>
 
--------------
 
 Opencv should be installed and system environment variable should be added.
 
