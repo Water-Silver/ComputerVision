@@ -1,4 +1,4 @@
-Implementaion of Filters using convolution.
+Implementaion of Filters using convolution
 ============================================
 
 Usage Notes
